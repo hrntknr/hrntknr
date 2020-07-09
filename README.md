@@ -1,16 +1,15 @@
-### Hi there 👋
+## Takanori Hirano
+![](https://img.shields.io/badge/ready-true-success.svg?style=for-the-badge)
+![](https://img.shields.io/badge/age-22-critical.svg?style=for-the-badge)
 
-<!--
-**hrntknr/hrntknr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- github.io: [hrntknr.github.io](https://hrntknr.github.io/)
+- Twitter: [@hrntknr](https://twitter.com/hrntknr)
+- Keybase: [@hrntknr](https://keybase.io/hrntknr)
+- Discord: hrntknr#4989
+- Line: [@hrntknr](https://line.me/ti/p/vGHITD9-zp)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PGP Key
+```
+65C7 134E B178 1DBE
+```
+https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x65c7134eb1781dbe
