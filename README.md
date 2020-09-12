@@ -1,15 +1,40 @@
-## Takanori Hirano
-![](https://img.shields.io/badge/ready-true-success.svg?style=for-the-badge)
-![](https://img.shields.io/badge/age-22-critical.svg?style=for-the-badge)
-
-- github.io: [hrntknr.github.io](https://hrntknr.github.io/)
-- Twitter: [@hrntknr](https://twitter.com/hrntknr)
-- Keybase: [@hrntknr](https://keybase.io/hrntknr)
-- Discord: hrntknr#4989
-- Line: [@hrntknr](https://line.me/ti/p/vGHITD9-zp)
-
-### PGP Key
-```
-65C7 134E B178 1DBE
-```
-https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x65c7134eb1781dbe
+<h1 align="center">Takanori Hirano</h1>
+<p align="center">
+  <a href= "https://twitter.com/hrntknr">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.svg" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://bit.ly/hrntknr-line">
+    <img src="https://img.icons8.com/ios-filled/50/000000/line-me.svg" width="30px"/>
+  </a> 
+  &emsp;
+  <a href="https://https://keybase.io/hrntknr">
+    <img src="https://img.icons8.com/ios-filled/50/000000/keybase2.svg" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://discord.bots.gg/profile/363696067461513226">
+    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.svg" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x65c7134eb1781dbe">
+    <img src="https://img.icons8.com/ios-filled/50/000000/lock.svg" width="28px"/>
+  </a>
+  <br><br>
+  <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/hrntknr?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/hrntknr?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/gists/hrntknr?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/commits/monthly/hrntknr?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/commits/all/hrntknr?style=flat-square&color=black&logo=github">
+  </a>
+</p>
