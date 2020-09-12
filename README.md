@@ -5,7 +5,7 @@
   </a>
   &emsp;
   <a href="https://bit.ly/hrntknr-line">
-    <img src="https://img.icons8.com/ios-filled/50/000000/line-me.svg" width="30px"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/line-me.svg" width="28px"/>
   </a> 
   &emsp;
   <a href="https://https://keybase.io/hrntknr">
@@ -23,18 +23,18 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/hrntknr?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/hrntknr?style=flat-square&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/hrntknr?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/hrntknr?style=flat-square&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/hrntknr?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/hrntknr?style=flat-square&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/hrntknr?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/hrntknr?style=flat-square&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/all/hrntknr?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/all/hrntknr?style=flat-square&logo=github">
   </a>
 </p>
