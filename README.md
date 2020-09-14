@@ -6,14 +6,18 @@
   &emsp;
   <a href="https://bit.ly/hrntknr-line">
     <img src="https://img.icons8.com/ios-filled/50/000000/line-me.svg" width="28px"/>
-  </a> 
-  &emsp;
-  <a href="https://https://keybase.io/hrntknr">
-    <img src="https://img.icons8.com/ios-filled/50/000000/keybase2.svg" width="28px"/>
   </a>
   &emsp;
   <a href="https://discord.bots.gg/profile/363696067461513226">
     <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.svg" width="28px"/>
+  </a>
+  &emsp;
+  <a href="xmpp:hrntknr@xmpp.jp?omemo-sid-1735791483=6d27f113443d725913f283cdf6fe2d7ecc9e037ba443f4857bb36c505553f11b">
+    <img src="https://img.icons8.com/ios-filled/50/000000/xmpp.svg" width="28px"/>
+  </a> 
+  &emsp;
+  <a href="https://https://keybase.io/hrntknr">
+    <img src="https://img.icons8.com/ios-filled/50/000000/keybase2.svg" width="28px"/>
   </a>
   &emsp;
   <a href="https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x65c7134eb1781dbe">
