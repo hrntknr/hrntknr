@@ -12,7 +12,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="xmpp:hrntknr@xmpp.jp?omemo-sid-1735791483=6d27f113443d725913f283cdf6fe2d7ecc9e037ba443f4857bb36c505553f11b">
+  <a href="https://conversations.im/i/hrntknr@xmpp.jp?omemo-sid-1735791483=6d27f113443d725913f283cdf6fe2d7ecc9e037ba443f4857bb36c505553f11b">
     <img src="https://img.icons8.com/ios-filled/50/000000/xmpp.svg" width="28px"/>
   </a> 
   &emsp;
