@@ -20,21 +20,5 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/lock.svg" width="28px"/>
   </a>
   <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/hrntknr?style=flat-square&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/hrntknr?style=flat-square&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/hrntknr?style=flat-square&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/hrntknr?style=flat-square&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/all/hrntknr?style=flat-square&logo=github">
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrntknr&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" height="130px" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrntknr&hide_title=true&layout=compact" height="130px" /> 
 </p>
