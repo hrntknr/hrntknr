@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/lock.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="mailto:hrn.takanori@gmail.com">
+  <a href="mailto:me@hrntknr.net">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="28px"/>
   </a>
   <br><br>
