@@ -8,7 +8,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/line-me.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="https://discord.bots.gg/profile/363696067461513226">
+  <a href="https://discordapp.com/users/363696067461513226">
     <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.svg" width="28px"/>
   </a>
   &emsp;
